@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaab/CLionProjects/cppBasic/D4_function_inline/test.c
+test.h
+/home/aaab/CLionProjects/cppBasic/D4_function_inline/test.h
+
+/home/aaab/CLionProjects/cppBasic/D4_function_inline/test.h
+stdio.h
+-
+

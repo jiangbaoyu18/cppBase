@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/c++  -g   CMakeFiles/cppBasic1.dir/D5_oop/HelloWorld5.cpp.o  -o cppBasic1 

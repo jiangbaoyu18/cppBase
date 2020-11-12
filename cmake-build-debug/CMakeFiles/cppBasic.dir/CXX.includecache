@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/food.h
+iostream
+-
+snake.h
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/snake.h
+
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/main.cpp
+wall.h
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/wall.h
+snake.h
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/snake.h
+food.h
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/food.h
+unistd.h
+-
+
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/snake.h
+iostream
+-
+wall.h
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/wall.h
+food.h
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/food.h
+
+/home/aaab/CLionProjects/cppBasic/D11_game_snack/wall.h
+iostream
+-
+string
+-
+

@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/c++  -g   CMakeFiles/cppBasic.dir/D11_game_snack/wall.cpp.o CMakeFiles/cppBasic.dir/D11_game_snack/main.cpp.o CMakeFiles/cppBasic.dir/D11_game_snack/snake.cpp.o CMakeFiles/cppBasic.dir/D11_game_snack/food.cpp.o  -o cppBasic 
